@@ -5,7 +5,7 @@ A React Native app which shows the user's financial data
 - **Expo** and a set of tools that help in development
 - **Styled-component** to work with customizable components and also using the Theming part of styled component 
 - **Typescript** as a development language facilitating the definition of types
-- **React Hook Form** to work with form validation
+- **React Hook Form** and **Yup** to work with form validation
 
 
 
