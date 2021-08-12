@@ -9,6 +9,7 @@ A React Native app which shows the user's financial data
 
 
 **Clone repository**
+- If you want to have a better look at the written code, make a repository clone
 
 ```
 $ git clone https://github.com/ItsJuniorDias/GoFinances.git
