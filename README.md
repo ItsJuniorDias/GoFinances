@@ -8,6 +8,13 @@ A React Native app which shows the user's financial data
 - **React-Navigation** for navigation between screens
 
 
+**Clone repository**
+
+```
+$ git clone https://github.com/ItsJuniorDias/GoFinances.git
+
+```
+
 
 **Installing dependencies**
 
