@@ -17,7 +17,8 @@ import {
   Scroll,
   Transaction,
   Title,
-  TransactionList
+  TransactionList,
+  LogoutButton
 } from './styles';
 
 export interface DataListProps extends TransactionCardProps {
@@ -84,8 +85,11 @@ const Welcome = () => {
               <UserName>Alexandre</UserName>
             </User>
           </UserInfo>
+          
+          <LogoutButton onPress={() => {}}> 
+            <Icon name="power" />
+          </LogoutButton>
 
-          <Icon name="power" />
         </UserWrapper>
       </Header>
       
