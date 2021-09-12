@@ -24,7 +24,7 @@ export function AppRoutes(){
         }
       }}
       screenOptions={{
-        headerShown: false
+        headerShown: true
       }}
     > 
       <Screen
