@@ -3,8 +3,8 @@
   "expoServerPort": 19000,
   "packagerPort": 19000,
   "packagerPid": null,
-  "expoServerNgrokUrl": "https://id-muv.anonymous.gofinances.exp.direct",
-  "packagerNgrokUrl": "https://packager.id-muv.anonymous.gofinances.exp.direct",
-  "ngrokPid": 6872,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
   "webpackServerPort": null
 }
